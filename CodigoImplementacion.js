@@ -1,4 +1,4 @@
-var token = "7445103715:AAHbJyyNgvZHN1KWiLWVI-8qCwbtCwiFEp0";
+var token = "revisarBot";
 var folderPosteoId = '1FBZdfhdH8uj2osZvKXh7Y8jwu8qHDa-k';
 var folderDiarioId = '19ZJSj8cjZOrcbg5qSOPM5XegspZ1XF1D';
 var folderPYMEId = '1IGx7rSiIZ5zRM6V6g-f7kxkxmoKk0nGw';
